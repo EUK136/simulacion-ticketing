@@ -1,19 +1,20 @@
 # Ejercicio ticketing
 
-Simulacion de una aplicacion de venta de entradas y gestión de eventos y recintos
+Simulación de una aplicación de gestión de eventos y recintos, se utilizan 2 archivos JSON para la persistencia de los datos, en login.json se almacenan los datos de usuarios y en recintos.json la información de los recintos y asistentes, se han creado unos archivo JSON de ejemplo, en caso de no existir el programa los crea el mismo por primera vez.
 
 ## Funciones basicas
 
-- [ ] Saludo inicial
-- [ ] Función añadir recinto
-- [ ] Función añadir asistente
-- [ ] Mostrar lista de asistentes
-- [ ] Menú de usuario
+- [x] Saludo inicial
+- [x] Función añadir recinto
+- [x] Función añadir asistente
+- [x] Mostrar lista de recintos
+- [x] Mostrar lista de asistentes
+- [x] Menú de usuario
 
 ## Funciones avanzadas
 
-- [ ] Borrar recintos
-- [ ] Borrar asistentes
-- [ ] Guardar y recuperar datos (persistencia)
-- [ ] Menú de estadisticas por recinto
-- [ ] Login de usuario
+- [x] Borrar recintos
+- [x] Borrar asistentes
+- [x] Guardar y recuperar datos (persistencia)
+- [x] Menú de estadisticas por recinto
+- [x] Login de usuario
